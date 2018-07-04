@@ -13,7 +13,7 @@
                 <div class="col-lg-5 offset-lg-4 fill_height">
                     <div class="banner_content">
                         <h1 class="banner_text">new era of smartphones</h1>
-                        <div class="banner_price"><span>$530</span>$460</div>
+                        <div class="banner_price"><span>N530</span>N460</div>
                         <div class="banner_product_name">Apple Iphone 6s</div>
                         <div class="button banner_button"><a href="#">Shop Now</a></div>
                     </div>
@@ -33,7 +33,7 @@
                         <div class="char_icon"><img src="img/char_1.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from $50</div>
+                            <div class="char_subtitle">from N50</div>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         <div class="char_icon"><img src="img/char_2.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from $50</div>
+                            <div class="char_subtitle">from N50</div>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                         <div class="char_icon"><img src="img/char_3.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from $50</div>
+                            <div class="char_subtitle">from N50</div>
                         </div>
                     </div>
                 </div>
@@ -297,7 +297,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -316,7 +316,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Samsung Charm...</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -335,7 +335,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">DJI Phantom 3...</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -354,7 +354,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -373,7 +373,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -392,7 +392,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">$379</div>
+                                                <div class="trends_price">N30000</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">

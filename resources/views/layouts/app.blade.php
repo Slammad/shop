@@ -4,7 +4,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'bellokano') }}</title>
+    <title>bellokano</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="bellokano shop project">
@@ -183,8 +183,8 @@
     
                                     <ul class="cat_menu">
                                         
-                                        @foreach(Ncategories as Ncategory)
-                                    <li><a href="{{ route('shop.index', ['category' => Ncategory->slug]) }}"><span><i class="{{Ncategory->icon}}"></i>{{Ncategory->name}}</span><i class="fas fa-chevron-right ml-auto"></i></a></li>
+                                        @foreach($categories as $category)
+                                    <li><a href="{{ route('shop.index', ['category' => $category->slug]) }}"><span><i class="{{$category->icon}}"></i>{{$category->name}}</span><i class="fas fa-chevron-right ml-auto"></i></a></li>
                                         @endforeach
                                     </ul>
                                 </div>
