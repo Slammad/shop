@@ -13,7 +13,7 @@
                 <div class="col-lg-5 offset-lg-4 fill_height">
                     <div class="banner_content">
                         <h1 class="banner_text">new era of smartphones</h1>
-                        <div class="banner_price"><span>N530</span>N460</div>
+                        <div class="banner_price"><span>&#8358;530</span>&#8358;460</div>
                         <div class="banner_product_name">Apple Iphone 6s</div>
                         <div class="button banner_button"><a href="#">Shop Now</a></div>
                     </div>
@@ -33,7 +33,7 @@
                         <div class="char_icon"><img src="img/char_1.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from N50</div>
+                            <div class="char_subtitle">from &#8358;50</div>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                         <div class="char_icon"><img src="img/char_2.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from N50</div>
+                            <div class="char_subtitle">from &#8358;50</div>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                         <div class="char_icon"><img src="img/char_3.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from N50</div>
+                            <div class="char_subtitle">from &#8358;50</div>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                         <div class="char_icon"><img src="img/char_4.png" alt=""></div>
                         <div class="char_content">
                             <div class="char_title">Free Delivery</div>
-                            <div class="char_subtitle">from $50</div>
+                            <div class="char_subtitle">from &#8358;50</div>
                         </div>
                     </div>
                 </div>
@@ -297,7 +297,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -316,7 +316,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Samsung Charm...</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -335,7 +335,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">DJI Phantom 3...</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -354,7 +354,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -373,7 +373,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -392,7 +392,7 @@
                                             <div class="trends_category"><a href="#">Smartphones</a></div>
                                             <div class="trends_info clearfix">
                                                 <div class="trends_name"><a href="product.html">Jump White</a></div>
-                                                <div class="trends_price">N30000</div>
+                                                <div class="trends_price">&#8358;379</div>
                                             </div>
                                         </div>
                                         <ul class="trends_marks">
@@ -638,10 +638,10 @@
                     <div class="col-lg-3 footer_col">
                         <div class="footer_column footer_contact">
                             <div class="logo_container">
-                                <div class="logo"><a href="#">bellokano</a></div>
+                                <div class="logo"><a href="#">OneTech</a></div>
                             </div>
                             <div class="footer_title">Got Question? Call Us 24/7</div>
-                            <div class="footer_phone"></div>
+                            <div class="footer_phone">+38 068 005 3570</div>
                             <div class="footer_contact_text">
                                 <p>17 Princess Road, London</p>
                                 <p>Grester London NW18JR, UK</p>
@@ -715,7 +715,8 @@
                         
                         <div class="copyright_container d-flex flex-sm-row flex-column align-items-center justify-content-start">
                             <div class="copyright_content"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-    Copyright &copy;<script>document.write(new Date().getFullYear());</script>    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
     </div>
                             <div class="logos ml-sm-auto">
                                 <ul class="logos_list">
